@@ -23,7 +23,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 - 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/divyanshkhare))! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
+- 📫 &nbsp; How to reach me: divyanshkhr5667@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
@@ -59,10 +59,10 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 11</li>
-	    <li><b>Laptop: </b> MSI GL65 </li>
-  	    <li><b>Browser: </b> Brave & Microsoft Edge </li>
-	    <li><b>Code Editor:</b> JetBrains & VSCode</li>
+  	    <li><b>OS:</b> Linux (Ubuntu )</li>
+	    <li><b>Laptop: </b> Dell Vostro 3590 </li>
+  	    <li><b>Browser: </b> Firefox , Chrome </li>
+	    <li><b>Code Editor:</b> JetBrains & VSCode </li>
 	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
 	    <br />
 	</ul>	
@@ -72,5 +72,6 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 <div align="center">
 
+### Visit my company [PVA INDIA](https://pvaindia.com) & Community [The Epic Code](https://theepiccode.com)
 
 </div>

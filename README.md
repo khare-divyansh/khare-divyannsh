@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Kunal Sharma!](https://github.com/KunalSharma2001/)
+## Hey 👋, I'm [Divyansh Khare!](https://github.com/khare-divyansh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-3b35661a8/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kunalsharma2001.github.io/)
@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KunalSharma2001.KunalSharma2001&style=flat-square&color=0088cc)
 
-Hi 👋🏻, My name is **Kunal Sharma** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
+Hi 👋🏻, My name is **Divyansh Khare** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
 During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.
 
 I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.

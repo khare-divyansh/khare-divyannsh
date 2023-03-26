@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ui_kunal/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shm_kunal)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KunalSharma2001.KunalSharma2001&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=khare-divyansh.khare-divyansh&style=flat-square&color=0088cc)
 
 Hi 👋🏻, My name is **Divyansh Khare** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
 During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.

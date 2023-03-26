@@ -11,17 +11,16 @@
 Hi 👋🏻, My name is **Divyansh Khare** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
 During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.
 
-I’m currently learning about Supervised Learning, Data Analysis, and Database Management Systems.
+I’m currently learning about Machine learning, Data Analysis, and Database Management Systems.
 
-I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in C++, Python SQL, Data Analysis, Problem Solving, Algorithms.
+I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in Python, SQL, Linux, Problem Solving, Algorithms.
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Machine Learning, C++, Python, Data Analysis, <br /> MATLABS, Power BI.
-- 🚀 &nbsp; I’m currently learning Tensorflow and PyTorch.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/KunalSharma2001).
+- 🛠 &nbsp; I’m currently  Python, Machine Learning, <br /> Problem solving, Computer vision.
+- 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/shm_kunal)! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kunal3122001@gmail.com.

@@ -63,8 +63,6 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 	    <li><b>Laptop: </b> Dell Vostro 3590 </li>
   	    <li><b>Browser: </b> Firefox , Chrome </li>
 	    <li><b>Code Editor:</b> JetBrains & VSCode </li>
-	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
-	    <br />
 	</ul>	
 </details>
 

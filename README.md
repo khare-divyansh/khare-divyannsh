@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kdivyansh/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://khare-divyansh.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KunalSh3122001)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DivyanshKhare13)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ui_kunal/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/shm_kunal)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/divyanshkhare)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=khare-divyansh.khare-divyansh&style=flat-square&color=0088cc)
 
@@ -21,7 +21,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 - 🛠 &nbsp; I’m currently  Python, Machine Learning, <br /> Problem solving, Computer vision.
 - 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/shm_kunal)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://t.me/divyanshkhare))! I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: kunal3122001@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
@@ -34,7 +34,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="27" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>

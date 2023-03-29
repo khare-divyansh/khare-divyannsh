@@ -21,7 +21,7 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 - 🛠 &nbsp; I’m currently  Python, Machine Learning, <br /> Problem solving, Computer vision.
 - 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
-- 💬 &nbsp; Ask me about anything ([here])(https://t.me/divyanshkhare) I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://t.me/divyanshkhare) I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: divyanshkhr5667@gmail.com.
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->

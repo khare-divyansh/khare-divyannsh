@@ -1,74 +1,118 @@
-## Hey 👋, I'm [Divyansh Khare!](https://github.com/khare-divyansh/)
+<div align="center">
+<a href="#"><img width="60%" height="auto" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" height="90px"/></a>
+</div>
+ 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Priyanshu Vaishnavi</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kdivyansh/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://khare-divyansh.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DivyanshKhare13)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/divyanshk.deb/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/divyanshkhare)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=khare-divyansh.khare-divyansh&style=flat-square&color=0088cc)
+<h3 align="center">I'm currently an undergraduate pursuing my bachelor's in Computer Science & Engineering.</h3>
 
-Hi 👋🏻, My name is **Divyansh Khare** and I am currently a pre-final year student pursuing a B.Tech degree in Computer Science( AI ). I am passionate about technology and enjoy learning new programming languages and software development methodologies.
-During my free time, I enjoy working on personal coding projects and contributing to open-source communities. I also love to take part in coding competitions and hackathons.
 
-I’m currently learning about Machine learning, Data Analysis, and Database Management Systems.
+## 🙋‍♀️ About Me 
+ 
+ 
+ - 💻 Currently working on the Web Development Projects and Android App Project.
+ - ☁  Exploring the Cloud Services and contributing towards it.
+ - 👯 I’m looking to collaborate on **Open Source Projects**.
+ - ✨ Desire to develop the new possibilities in the field of **DBMS & DATA SCIENCE✌**.
+ - ✍ Sometimes I write articles on [Medium](https://medium.com/@vaishnavipriyanshu198) 
+ - ⚡ Fun fact :- I love to attend the Meetups for learning & Conferences for Networking.
+ - 📫 Reach me at:- vaishnavipriyanshu198@gmail.com
 
-I'm an aspiring Engineer with working knowledge of database, and machine learning(supervised learning), in the computer industry. Skilled in Python, SQL, Linux, Problem Solving, Algorithms.
 
-<img align="right" height="250" width="375" alt="" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+## 💻 My Technical Skills
 
-### Talking about Personal Stuffs:
+<p align="center">
+    
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+ <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
+ </p>
+ 
+ ## 👩‍💻 Frameworks and Technologies I am familiar with - 
+      ⪼ Git
+      ⪼ GitHub
+      ⪼ Microsoft Azure
+      ⪼ Google Cloud Console 
+     
 
-- 🛠 &nbsp; I’m currently  Python, Machine Learning, <br /> Problem solving, Computer vision.
-- 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
-- 💬 &nbsp; Ask me about anything [here](https://t.me/divyanshkhare) I am happy to help.
-<!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: divyanshkhr5667@gmail.com.
-<!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
-### My Absolute Favorites:
+## 📊 My Github Stats
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Watching Netflix and Freecodecamp.
-- 🍕 &nbsp; Hackathons, Robowars & tech events.
+  <br/>
+  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Priyanshu Vaishnavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyanshu688&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/priyanshu688/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu688&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
+  <br/>
+  <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu688&theme=dark" alt="PriyanshuVaishnavi"/></p>
+  </div>
+<br/>
 
-### Languages and Tools:
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-          
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
+<br/>
+<br/>
 
-### Projects and Dev Stuffs:
+## 📈 My Contributions Graph
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<br/>
+<a href="https://github.com/priyanshu688/github-readme-activity-graph"><img alt="Priyanshu Vaishnavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshu688&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khare-divyansh&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khare-divyansh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<br/>
+<br/>
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Linux (Ubuntu )</li>
-	    <li><b>Laptop: </b> Dell Vostro 3590 </li>
-  	    <li><b>Browser: </b> Firefox , Chrome </li>
-	    <li><b>Code Editor:</b> JetBrains & VSCode </li>
-	</ul>	
-</details>
-
-#
+## Let's Connect Here👇:
 
 <div align="center">
 
+<a  href="https://www.linkedin.com/in/priyanshu-vaishnavi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vaishnavipriyanshu198@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://discord.com/channels/@me"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/PriyanshuVaish8" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a  href="https://www.youtube.com/channel/UCCRQtbvt-RImhLC4gtOz6gw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 </div>
+ 
+ ## Badges
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='37' height='37'>
+</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='37' height='37'></a> 
+
+
+
+## Views and Followers
+<a href="https://github.com/priyanshu688/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=priyanshu688">
+</a>
+<a href="https://github.com/priyanshu688?tab=followers"><img src="https://img.shields.io/github/followers/priyanshu688?label=Followers&style=social" alt="GitHub Badge"></a>
+ 
+ ## Support
+<p><a href="https://www.buymeacoffee.com/priyanshuvaishnavi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="priyanshuvaishnavi" /></a></p><br><br>
+<br>
+
+ 
+<!--
+**priyanshu688/priyanshu688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me:@vaishnavipriyanshu198@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

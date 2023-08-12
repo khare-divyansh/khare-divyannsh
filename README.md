@@ -1,4 +1,4 @@
-<!---
+<!--- <!--- =============================== H E R E ====================================
 ## Hey 👋, I'm [Divyansh Khare!](https://github.com/khare-divyansh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kdivyansh/)
@@ -24,9 +24,10 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 - 👨🏻‍💻 &nbsp; Most of my projects are not available on [Github](https://github.com/khare-divyansh).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/divyanshkhare) I am happy to help.
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
-- 📫 &nbsp; How to reach me: divyanshkhr5667@gmail.com.
+<!--- 📫 &nbsp; How to reach me: divyanshkhr5667@gmail.com. --->
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/ceokartik/ceokartik/blob/master/resume.pdf).-->
 
+<!--- =============================== H E R E ====================================
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
@@ -73,4 +74,3 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 
 </div> 
--->

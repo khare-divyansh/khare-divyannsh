@@ -1,4 +1,4 @@
-<!--- <!--- =============================== H E R E ====================================
+<!--- =============================== H E R E ====================================
 ## Hey 👋, I'm [Divyansh Khare!](https://github.com/khare-divyansh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kdivyansh/)
@@ -75,6 +75,5 @@ I'm an aspiring Engineer with working knowledge of database, and machine learnin
 
 </div> 
 
---->
 
 Hello geek!
